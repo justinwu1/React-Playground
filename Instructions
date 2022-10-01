@@ -1,0 +1,22 @@
+1. Popular a JSON dummy data for the front end now (use fakerjs)
+2. Render a list of data to render
+3. Render a form to enter new input
+4. Create an option / search bar in Info
+5. CSS to make Navbar / form / and list / Search bar / filter of data pretty
+6. Implement the logic for filter and search bar
+7. Create a simple backend to serve data
+8. Create REST APIs
+
+Requirement:
+
+1. Utilize React / React-dom / Redux
+2. Use BackEnd NodeJS & Couchbase
+3. Transform Redux to Redux-tool kit
+
+Optional Add:
+
+1. TypeScript
+
+9/25 - Requirement5 - 7
+
+Requirement#6 - 

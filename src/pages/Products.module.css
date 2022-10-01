@@ -1,0 +1,14 @@
+.container {
+  margin: 0 auto;
+  max-width: 2000px;
+}
+
+.form-control {
+  margin-left: 1rem;
+  margin-bottom: 3rem;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
