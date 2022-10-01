@@ -8,6 +8,6 @@ It will run the app.
 
 # Language & Framework ( to be update )
 
-- React / React Context
+- React / React Context / React Hooks 
 - Redux / Redux-tool kit
 - CSS 
